@@ -7,4 +7,4 @@ Presentation Deck
 
 Hands On Workshop - Student Guide
 
-(pdf): https://drive.google.com/file/d/1FCTiEwN4BXLz5BVt3-v7rE5qHe_HchfH/view?usp=sharing
+(pdf): https://docs.google.com/document/d/13uv-YvumZNS4CC1EsIUltxvnIhti8rFDVXKuoQmGryk/edit?usp=sharing
